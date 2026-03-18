@@ -15,10 +15,17 @@ useGitignore: true
 ignorePaths:
   - pnpm-lock.yaml
 words:
+  - cooldown
   - CVEs
   - Decap
+  - esbuild
+  - GHSA
+  - Ghsas
   - hostnames
   - jsdoc
   - kyoshino
+  - PKCE
   - singleline
   - Sveltia
+  - undici
+  - workerd
